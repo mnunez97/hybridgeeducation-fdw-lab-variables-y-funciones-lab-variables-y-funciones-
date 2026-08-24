@@ -7,6 +7,9 @@
 
 function invertirCadena(cadena) {
     // Escribe tu código aquí
+    function invertirCadena(cadena) {
+    return cadena.split("").reverse().join("");
+}
 }
 
 // Exporta la función para que pueda ser utilizada en las pruebas
