@@ -3,6 +3,9 @@
 
 function obtenerNombre() {
     // Escribe tu código aquí
+    function obtenerNombre() {
+    return "Antonio";
+}
 }
 
 // No modificar.
